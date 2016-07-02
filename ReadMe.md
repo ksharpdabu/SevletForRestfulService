@@ -1,6 +1,8 @@
 
 ##Servlet写的 Restful webservice
 
+见：[《webservice笔记3——REST风格的java service 框架及使用Servlet实现Restful webservice》](http://www.dabu.info/webservice-restful-framework-servlet.html)
+
 
 截图：
 ![Servlet Restful Webservice](./ScreenImage/servlet.png)
